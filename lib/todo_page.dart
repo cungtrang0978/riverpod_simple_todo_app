@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:loader_overlay/loader_overlay.dart';
-import 'package:riverpod_speech_appoach/todo/todo.dart';
+import 'package:riverpod_simple_todo/todo/todo.dart';
 
 import 'notifier/todo_filter_notifier.dart';
 import 'notifier/todos_notifier.dart';

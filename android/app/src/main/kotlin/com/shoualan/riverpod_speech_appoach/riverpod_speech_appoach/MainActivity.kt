@@ -1,4 +1,4 @@
-package com.shoualan.riverpod_speech_appoach.riverpod_speech_appoach
+package com.shoualan.riverpod_simple_todo.riverpod_simple_todo
 
 import io.flutter.embedding.android.FlutterActivity
 
